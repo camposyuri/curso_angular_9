@@ -34,6 +34,11 @@
       "name": "Veio do Formulario",
       "price": "9.99",
       "id": 7
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "2.50",
+      "id": 8
     }
   ]
 }
